@@ -1,6 +1,10 @@
 # Detecção Facial
 
-## Refererências
+# Objetivo
+
+Reconhecimento facial em imagens
+
+## Referências
 
 - https://towardsdatascience.com/face-detection-in-2-minutes-using-opencv-python-90f89d7c0f81
 - https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
