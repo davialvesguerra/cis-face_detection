@@ -1,6 +1,6 @@
 # Detecção Facial
 
-# Objetivo
+## Objetivo
 
 Reconhecimento facial em imagens
 
