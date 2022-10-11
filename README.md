@@ -3,7 +3,7 @@
 
 ## Objetivo
 
-Reconhecimento facial em imagens
+Reconhecimento de face e emoções em uma imagem
 
 ## Referências
 
