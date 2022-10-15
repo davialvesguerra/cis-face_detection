@@ -13,3 +13,5 @@ Reconhecimento facial em imagens
 - https://www.ft.com/content/c0b03d1d-f72f-48a8-b342-b4a926109452
 - https://theconversation.com/ai-is-increasingly-being-used-to-identify-emotions-heres-whats-at-stake-158809
 - https://labelyourdata.com/articles/ai-emotion-recognition
+
+- https://py-feat.org/basic_tutorials/02_detector_imgs.html
